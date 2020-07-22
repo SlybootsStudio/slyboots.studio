@@ -4,6 +4,6 @@
 
 # Slyboots Studio
 
-> Modern Web Game Developers
+> Modern Web Game Development
 
 [Welcome](#welcome)
