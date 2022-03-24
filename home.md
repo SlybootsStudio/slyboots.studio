@@ -3,17 +3,19 @@
 
 ## Games
 
-- [Kongregate](https://www.kongregate.com/accounts/SlybootsStudio)
+### Lord of Trash (Under Development)
+- Incremental / Idle Game
+- Single Player
 
-Our games are currently under development, but you'll eventually find them linked here.
+#### Work in Progress
+- [Link](https://slyboots.studio/lordoftrash)
 
 ## Community
 
-[Reddit](https://www.reddit.com/r/slyboots)
-
-Joining our subreddit is a good way to stay up to date, participate in discussions, and give your feedback about our games.
-
-Discord coming soon.
+- [Twitch](https://www.twitch.tv/slybootsstudio)
+- [Reddit](https://www.reddit.com/r/slyboots)
+- [Discord](https://discord.gg/q9WmKSzABE)
+- [YouTube](https://www.youtube.com/channel/UCHVppg1ofhlbcK89xBqv-2Q)
 
 ## Funding
 
